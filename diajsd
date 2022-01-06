@@ -1,0 +1,77 @@
+[33mcommit 17fc15ef9e4b2186a77458761d961304d424969d[m[33m ([m[1;36mHEAD -> [m[1;32m20220106[m[33m)[m
+Author: Yejin Kim <ejjing.official@gmail.com>
+Date:   Fri Jan 7 02:01:51 2022 +0900
+
+    Fixed file tree for implementing server
+
+[33mcommit 836876b819ca7e06421815f8aec3b0995f014c5d[m[33m ([m[1;31morigin/20220105[m[33m, [m[1;32m20220105[m[33m)[m
+Author: Yejin Kim <ejjing.official@gmail.com>
+Date:   Thu Jan 6 04:57:09 2022 +0900
+
+    Fixed line breaking
+
+[33mcommit dfcc227c16842722525b43ce47ce7457cdee36ab[m
+Author: Yejin Kim <ejjing.official@gmail.com>
+Date:   Wed Jan 5 21:51:15 2022 +0900
+
+    Fixed header button toggle
+
+[33mcommit e369014605586361e917605acd24a99394fce1cb[m
+Author: Yejin Kim <ejjing.official@gmail.com>
+Date:   Wed Jan 5 16:39:57 2022 +0900
+
+    Fixed untracked files
+
+[33mcommit 5fbbed1613c4ac34c72ac8d4d82f0b31534deaea[m[33m ([m[1;31morigin/20220104[m[33m, [m[1;32m20220104[m[33m)[m
+Author: Yejin Kim <ejjing.official@gmail.com>
+Date:   Wed Jan 5 03:38:54 2022 +0900
+
+    Update js directory about menutogglebutton of header
+
+[33mcommit 996d7baa7f0dc3896996d480aa35cecebd1ea21f[m
+Author: Yejin Kim <ejjing.official@gmail.com>
+Date:   Wed Jan 5 03:37:57 2022 +0900
+
+    Update css diretory
+
+[33mcommit 74e4c8f4e521665bd7f89a06272e15478d690224[m
+Author: Yejin Kim <ejjing.official@gmail.com>
+Date:   Wed Jan 5 03:36:24 2022 +0900
+
+    Update index.html: Making header
+
+[33mcommit 500fd4239601a65fca786d538c7e4a7e3528c8b9[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/8[m[33m, [m[1;32mmaster[m[33m, [m[1;32m8[m[33m)[m
+Author: Yejin Kim <ejjing.official@gmail.com>
+Date:   Tue Jan 4 01:20:26 2022 +0900
+
+    Add a index.html
+
+[33mcommit 57b54f0808e5f3c6052ca0177351bf379b61f486[m[33m ([m[1;31mupstream/alpha[m[33m, [m[1;31mupstream/7[m[33m, [m[1;31mupstream/6[m[33m, [m[1;31mupstream/5[m[33m, [m[1;31mupstream/4[m[33m, [m[1;31mupstream/31[m[33m, [m[1;31mupstream/3[m[33m, [m[1;31mupstream/29[m[33m, [m[1;31mupstream/28[m[33m, [m[1;31mupstream/27[m[33m, [m[1;31mupstream/26[m[33m, [m[1;31mupstream/24[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/9[m[33m, [m[1;31morigin/7[m[33m, [m[1;31morigin/6[m[33m, [m[1;31morigin/5[m[33m, [m[1;31morigin/4[m[33m, [m[1;31morigin/31[m[33m, [m[1;31morigin/30[m[33m, [m[1;31morigin/3[m[33m, [m[1;31morigin/29[m[33m, [m[1;31morigin/28[m[33m, [m[1;31morigin/27[m[33m, [m[1;31morigin/26[m[33m, [m[1;31morigin/25[m[33m, [m[1;31morigin/24[m[33m, [m[1;31morigin/23[m[33m, [m[1;31morigin/22[m[33m, [m[1;31morigin/21[m[33m, [m[1;31morigin/20[m[33m, [m[1;31morigin/2[m[33m, [m[1;31morigin/19[m[33m, [m[1;31morigin/18[m[33m, [m[1;31morigin/17[m[33m, [m[1;31morigin/16[m[33m, [m[1;31morigin/15[m[33m, [m[1;31morigin/14[m[33m, [m[1;31morigin/13[m[33m, [m[1;31morigin/12[m[33m, [m[1;31morigin/11[m[33m, [m[1;31morigin/10[m[33m, [m[1;31morigin/1[m[33m)[m
+Author: jin-Pro <dnjun2@ajou.ac.kr>
+Date:   Sun Jan 2 15:18:23 2022 +0900
+
+    Feat : 기획서
+
+[33mcommit ed307373217fdd1929625b95ff2f9f6a02922111[m
+Author: jin-Pro <dnjun2@ajou.ac.kr>
+Date:   Sat Jan 1 23:01:16 2022 +0900
+
+    Feat : Project Setting
+
+[33mcommit f16db534bb88df5f97c46429ab3bf32fac348b21[m
+Author: jin-Pro <70205497+jin-Pro@users.noreply.github.com>
+Date:   Tue Dec 21 23:57:48 2021 +0900
+
+    Update README.md
+
+[33mcommit ca002ea0f18f5265b246029b163074f6441b2a9c[m
+Author: jin-Pro <dnjun2@ajou.ac.kr>
+Date:   Tue Dec 21 23:56:41 2021 +0900
+
+    Feat : Introduce README
+
+[33mcommit 6773480e5e7ee47f285193a7bd3db29497f14ab3[m
+Author: jin-Pro <70205497+jin-Pro@users.noreply.github.com>
+Date:   Sun Dec 12 14:03:07 2021 +0900
+
+    Initial commit

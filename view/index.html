@@ -11,21 +11,21 @@
     <meta name="author" content="yejinkim">
     <!-- 웹페이지 소유자 -->
     <title>AJOU MEMO</title>
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./public/css/style.css">
     <!-- style.css 파일과 연결 -->
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 
-    <script src="./js/main.js" defer></script>
+    <script src="./public/js/main.js" defer></script>
 
   </head>
   <body>
 
     <nav class="header">
       <a href="#menutoggle">
-        <img class="header_togglebutton" src="./css/icon/togglemenu_icon.png" />
+        <img class="header_togglebutton" src="./public/css/icon/togglemenu_icon.png" />
       </a>
 
       <div class="header_logo_text">
@@ -40,14 +40,17 @@
 
     <nav class="board_menu">
       <ul class="board_list">
-        <li><a href="">자유게시판</a></li>
-        <li><a href="">비밀게시판</a></li>
-        <li><a href="">정보게시판</a></li>
-        <li><a href="">홍보게시판</a></li>
-        <li><a href="">SW게시판</a></li>
+        <li><a href="/Main" class="board_link" data-link>자유게시판</a></li>
+        <li><a href="/Secret" class="board_link" data-link>비밀게시판</a></li>
+        <li><a href="/Information" class="board_link" data-link>정보게시판</a></li>
+        <li><a href="/Promotion" class="board_link" data-link>홍보게시판</a></li>
+        <li><a href="/Software" class="board_link" data-link>SW게시판</a></li>
         <!-- (li>a)*5 입력 후 Tab키 누르면 <li><a ~> 5번 반복-->
       </ul>
     </nav>
+
+    <div id="board"></div>
+    <script type="module" src="./js/client.js"></script>
 
   </body>
 </html>
